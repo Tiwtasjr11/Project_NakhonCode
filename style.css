@@ -5,6 +5,9 @@ h1{
     color: aqua;
 }
 
-li{
+li #one{
+    color: aquamarine;
+}
+li #two{
     color: aquamarine;
 }
